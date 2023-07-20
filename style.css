@@ -32,6 +32,12 @@ h1 {
     font-weight: 900;
     color: #F9FAF8;
 }
+h2 {
+    font-size: 36px;
+    font-weight: 900;
+    color: #1F2937;
+    margin: 0;
+}
 
 .header-content {
     display: flex;
@@ -63,4 +69,29 @@ button {
     color: #F9FAF8;
     font-family: inherit;
     font-size: 18px;
+}
+
+/* Information Section */
+
+.information {
+    text-align: center;
+    padding: 32px 48px 32px;
+}
+
+.card-container {
+    display: flex;
+    gap: 32px;
+    justify-content: center;
+    padding-top: 32px;
+    width: 70vw;
+    margin: 0 auto;
+}
+
+.card-container div {
+    flex: 1;
+}
+
+.card-container img {
+    width: 100%;
+    height: auto;
 }
