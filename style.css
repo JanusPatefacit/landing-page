@@ -100,9 +100,15 @@ button {
 
 .quote {
     background-color: #E5E7EB;
+    padding: 48px 15vw;
 }
+
 .quote-text {
     font-size: 36px;
     font-weight: lighter;
     font-style: italic;
+}
+
+.quote-reference {
+    text-align: right;
 }
