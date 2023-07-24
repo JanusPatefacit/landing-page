@@ -9,7 +9,7 @@ body{
 
 .header{
     background-color: #1F2937;
-    padding: 16px 100px 48px 100px;
+    padding: 16px 100px 72px 100px;
 }
 img {
     width: 300px;
@@ -47,6 +47,7 @@ h2 {
 
 .header-content {
     display: flex;
+    margin-top: 72px;
 }
 
 .secondary {
