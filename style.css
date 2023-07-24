@@ -56,7 +56,7 @@ h2 {
     gap: 32px;
 }
 
-.secondary {
+.secondary, .footer {
     font-size: 18px;
     color: #E5E7EB;
     margin: 0;
@@ -156,4 +156,9 @@ button {
 .action button {
     border: 2px solid #F9FAF8;
     align-self: center;
+}
+
+.footer {
+    background-color: #1F2937;
+    text-align: center;
 }
