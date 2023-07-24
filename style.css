@@ -20,10 +20,6 @@ body{
     background-color: #1F2937;
     padding: 16px 100px 72px 100px;
 }
-img {
-    width: 300px;
-    height: auto;
-}
 
 .nav {
     display: flex;
@@ -100,7 +96,7 @@ button {
 
 .information {
     text-align: center;
-    padding: 32px 48px 32px;
+    padding: 32px 0;
 }
 
 .card-container {
