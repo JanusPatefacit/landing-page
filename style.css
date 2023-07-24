@@ -137,18 +137,17 @@ button {
 /* Action section */
 
 .action{
-    /* display: flex;
+    display: flex;
     justify-content: center;
-    align-items: center; */
+    margin: 72px 100px;
+    background-color: #3882F6;
+    border-radius: 8px;
 }
 
 .action-container{
     width: 70vw;
     height: auto;
-    margin-top: 32px;
-    padding: 48px;
-    background-color: #3882F6;
-    border-radius: 8px;
+    padding: 48px 0;
     display: flex;
     justify-content: space-between;
     gap: 32px;
